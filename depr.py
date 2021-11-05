@@ -1,4 +1,3 @@
-```
 print("="*40)
 print("    Aplikasi Penghitung Depresiasi")
 print("\tStraight Line Method")
@@ -31,5 +30,4 @@ def depresiasi(harga, umur, tahun_awal, tahun_akhir, residu):
         print("STOP!")
 
 depresiasi(harga, umur, tahun_awal, tahun_akhir, residu)
-```
 
